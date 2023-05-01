@@ -1,5 +1,16 @@
-## Hi there 👋
+## 🙋‍♀️ yaptide
 
+A web interface for particle transport simulation codes
+
+## 👩‍💻 Useful resources:
+
+Development demo version of web interface https://yaptide.github.io/web_dev/
+
+## 🍿 Repositories:
+- source code of frontend user interface https://github.com/yaptide/ui
+- source code of backend engine https://github.com/yaptide/yaptide
+- source code of simulation input files generator (converter) https://github.com/yaptide/converter
+- deploment scripts https://github.com/yaptide/deploy
 <!--
 
 **Here are some ideas to get you started:**
