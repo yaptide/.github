@@ -11,6 +11,11 @@ Development demo version of web interface https://yaptide.github.io/web_dev/
 - source code of backend engine https://github.com/yaptide/yaptide
 - source code of simulation input files generator (converter) https://github.com/yaptide/converter
 - deploment scripts https://github.com/yaptide/deploy
+
+## Project:
+
+- Issues and PRs for yaptide: https://github.com/orgs/yaptide/projects/6
+
 <!--
 
 **Here are some ideas to get you started:**
