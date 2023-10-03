@@ -4,7 +4,7 @@ A web interface for particle transport simulation codes
 
 ## 👩‍💻 Free web based interface:
 
-Development demo version of web interface [yaptide.github.io/web_dev/](https://yaptide.github.io/web_dev/)
+Development demo version of web interface [yaptide.github.io/web_dev](https://yaptide.github.io/web_dev/)
 
 ## 🧙 Technical documentation:
 
