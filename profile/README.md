@@ -19,8 +19,6 @@ The pages below are mostly for yaptide platform developers:
 - source code of simulation input files generator (converter) [yaptide/converter](https://github.com/yaptide/converter)
 - deploment scripts [yaptide/deploy](https://github.com/yaptide/deploy)
 
-## Project:
-
 
 <!--
 
