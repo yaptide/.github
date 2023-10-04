@@ -14,6 +14,7 @@ Development demo version of web interface [yaptide.github.io/web_dev](https://ya
 
 The pages below are mostly for yaptide platform developers:
 - [Backend documentation](https://yaptide.github.io/yaptide/)
+- [Frontend documentation](https://yaptide.github.io/ui/)
 - [Deploy documentation](https://yaptide.github.io/deploy/)
 - [Issues and PRs for yaptide](https://github.com/orgs/yaptide/projects/6)
 
