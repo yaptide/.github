@@ -4,21 +4,17 @@ A web interface for particle transport simulation codes.
 
 [Tutorial and user documentation](https://yaptide.github.io/docs/)
 
-  * **Production** demo version: [yaptide.github.io](https://yaptide.github.io/)
-  * *Development* demo version: [yaptide.github.io/web_dev](https://yaptide.github.io/web_dev/)
+  * **Production** demo version: 🕸️ [yaptide.github.io](https://yaptide.github.io/)
+  * *Development* demo version: 🧪 [yaptide.github.io/web_dev](https://yaptide.github.io/web_dev/)
 
 
-## 🍿 Repositories:
+## 🍿 Repositories and Documentation:
 
-| Frontend | Backend | Converter | Deployment | User documentation |
-| :---:    |  :---:  |   :---:   |   :---:    |       :---:        |
-| [yaptide/ui](https://github.com/yaptide/ui) | [yaptide/yaptide](https://github.com/yaptide/yaptide) | [yaptide/converter](https://github.com/yaptide/converter) | [yaptide/deploy](https://github.com/yaptide/deploy) | [yaptide/docs](https://github.com/yaptide/docs) |
+- [**Project** with issues and PRs](https://github.com/orgs/yaptide/projects/6) from all yaptide repos
 
-## 🧙 Technical documentation:
-
-The pages below are mostly for yaptide platform developers:
-- [Backend documentation](https://yaptide.github.io/yaptide/)
-- [Frontend documentation](https://yaptide.github.io/ui/)
-- [Deploy documentation](https://yaptide.github.io/deploy/)
-- [Project with issues and PRs for yaptide](https://github.com/orgs/yaptide/projects/6)
-
+|  | Frontend | Backend | Converter | Deployment | User documentation |
+| :---:    | :---:    |  :---:  |   :---:   |   :---:    |       :---:        |
+|     |     | |     |       |  |
+| **Repository** | :octocat: [ui repo](https://github.com/yaptide/ui) | :octocat: [yaptide repo](https://github.com/yaptide/yaptide) | :octocat: [converter repo](https://github.com/yaptide/converter) | :octocat: [deploy repo](https://github.com/yaptide/deploy) | :octocat: [docs repo](https://github.com/yaptide/docs) |
+|     |     | |     |       |  |
+| **Documentation** | 📔 [ui pages](https://yaptide.github.io/ui/) | 📔 [yaptide pages](https://yaptide.github.io/yaptide/) | 📔 🕳️ | 📔 [deploy pages](https://yaptide.github.io/deploy/)  | 📔 [docs pages](https://yaptide.github.io/docs/)  |
