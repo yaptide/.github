@@ -15,7 +15,7 @@ A web interface for particle transport simulation codes.
 | :---:    |
 
 
-|  | Frontend | Backend | Converter | Deployment | User documentation | Developer Dcoucumentation |
+|  | Frontend | Backend | Converter | Deployment | User documentation | Developer Documentation |
 | :---    | :---:    |  :---:  |   :---:   |   :---:    |       :---:        |    :---:        |
 |     |     | |     |       |  |
 | **Repository** | :octocat: [ui repo](https://github.com/yaptide/ui) | :octocat: [yaptide repo](https://github.com/yaptide/yaptide) | :octocat: [converter repo](https://github.com/yaptide/converter) | :octocat: [deploy repo](https://github.com/yaptide/deploy) | :octocat: [docs repo](https://github.com/yaptide/docs) | :octocat: [For Developers repo](https://github.com/yaptide/for_developers)
