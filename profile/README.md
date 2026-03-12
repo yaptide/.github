@@ -4,7 +4,7 @@ A web interface for particle transport simulation codes.
 
 [Tutorial and user documentation](https://yaptide.github.io/docs/)
 
-[Developer documetation](https://yaptide.github.io/for_developers/backend)
+[Developer documetation](https://yaptide.github.io/for_developers)
 
   * **Production** demo version: 🕸️ [yaptide.github.io](https://yaptide.github.io/)
   * *Development* demo version: 🧪 [yaptide.github.io/web_dev](https://yaptide.github.io/web_dev/)
