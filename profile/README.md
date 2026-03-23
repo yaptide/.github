@@ -32,7 +32,7 @@ We use [Zulip](https://zulip.com/) as our main chat platform for developer commu
 ### Joining the Yaptide Zulip Organization
 
 You can join our Zulip chat using this invite link:  
-[https://yaptide.zulipchat.com/join/nyulh3q2idqmepo7jpsoy3jz/](https://yaptide.zulipchat.com/join/nyulh3q2idqmepo7jpsoy3jz/)
+[https://yaptide.zulipchat.com/join/76vqikqplomxymk7iz2ftpyw/](https://yaptide.zulipchat.com/join/76vqikqplomxymk7iz2ftpyw/)
 
 - New contributors joining via this link are admitted as **Guests** with limited permissions to read and participate in a few introductory channels.
 - To become full **Members** with broader access and posting rights, guests need to be manually promoted by the core team after demonstrating active participation or contribution.
